@@ -29,6 +29,8 @@ With over a year of experience in creating insightful Power BI dashboards and de
 
 I thrive on opportunities to tackle complex data visualization projects and turn intricate datasets into actionable insights.
 
+[![An image of @mrdaniyalali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrdaniyalali)](https://holopin.io/@mrdaniyalali)
+
 ## Let's Connect
 
 I love meeting new people and discussing exciting opportunities! Feel free to reach out to me at [daniyalalirangwala@gmail.com](mailto:daniyalalirangwala@gmail.com). 
